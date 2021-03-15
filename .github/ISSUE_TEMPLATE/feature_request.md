@@ -7,17 +7,17 @@ assignees: jordanpadams
 
 ---
 
-**Motivation**
+## Motivation
 > why the user wants to accomplish it
 >
 > for example: As a user, I want to be able to view my Order History **so that I can check on the status of previous purchases.**
 
 ...so that I can <why do you want to do this?>
 
-**Additional Details**
+## Additional Details
 > Please prove any additional details or information that could help provide some context for the user story.
 
-**Acceptance Criteria**
+## Acceptance Criteria
 > The feature request included _what_ you want to do. Why?
 > 
 > For example:
