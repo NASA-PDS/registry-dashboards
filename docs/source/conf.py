@@ -17,11 +17,11 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'NASA PDS Software'
-copyright = '2020 California Institute of Technology'
+project = 'My PDS Project'
+copyright = '2021 California Institute of Technology'
 author = 'NASA Planetary Data System'
-release = '11.0'
-version = '11.0'
+release = '0.0'
+version = '0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -36,8 +36,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.autosummary',
-    'sphinx_rtd_theme',
-    'sphinxemoji.sphinxemoji'
+    'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
