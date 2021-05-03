@@ -1,31 +1,25 @@
-****************************
- PDS Archive Analytics
-****************************
+# PDS Archive Analytics
 
 Kibana-based reporting tool for analytics of the archive
 
-Documentation
-=============
+## Documentation
 TBD
 
-Contribute
-==========
+## Contribute
 
 • Issue Tracker: https://github.com/NASA-PDS/archive-analytics/issues
 • Source Code: https://github.com/NASA-PDS/archive-analytics/
 • Wiki: https://github.com/NASA-PDS/archive-analytics/wiki
 
 
-Support
-=======
+## Support
 
 If you are having issues file a bug report in Github: https://github.com/NASA-PDS/archive-analytics/issues
 
 Or you can reach us at https://pds.nasa.gov/?feedback=true
 
 
-License
-=======
+## License
 
 The project is licensed under the Apache License, version 2. See the
 LICENSE.txt file for details.
