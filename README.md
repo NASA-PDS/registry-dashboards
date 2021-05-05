@@ -3,7 +3,14 @@
 Kibana-based reporting tool for analytics of the archive
 
 ## Documentation
-TBD
+1. Procedure for exporting config
+   * Go to Kibana
+   * Click on Stack Management
+   * Click on Saved Objects
+   * Once inside of "Edit Saved Objects: you can:
+      * Click on Export Everything
+      * Or select each Dashboards, Searches, and Visualizations 
+      * Then, click on Export (This will export a JSON file with all yout dashboard, saved searches, and, visualizations)
 
 ## Contribute
 
