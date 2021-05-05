@@ -10,7 +10,16 @@ Kibana-based reporting tool for analytics of the archive
    * Once inside of "Edit Saved Objects: you can:
       * Click on Export Everything
       * Or select each Dashboards, Searches, and Visualizations 
-      * Then, click on Export (This will export a JSON file with all yout dashboard, saved searches, and, visualizations)
+      * Then, click on Export Button (This will export a NDJSON file with all yout dashboard, saved searches, and, visualizations)
+
+ 2. Procedure for importing config
+    * Go to Kibana
+    * Click on Stack Management
+    * Click on Saved Objects
+    * Click on the Import Button
+    * Browse for the exported NDJSON file
+    * There is a toggle button and statement at the bottom on the page that says "Automatically overwrite all saved objects?" (This is your choice)
+    * Then, click on Import Button
 
 ## Contribute
 
