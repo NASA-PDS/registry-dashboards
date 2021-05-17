@@ -23,9 +23,9 @@ Kibana-based reporting tool for analytics of the archive
 
 ## Contribute
 
-• Issue Tracker: https://github.com/NASA-PDS/archive-analytics/issues
-• Source Code: https://github.com/NASA-PDS/archive-analytics/
-• Wiki: https://github.com/NASA-PDS/archive-analytics/wiki
+* Issue Tracker: https://github.com/NASA-PDS/archive-analytics/issues
+* Source Code: https://github.com/NASA-PDS/archive-analytics/
+* Wiki: https://github.com/NASA-PDS/archive-analytics/wiki
 
 
 ## Support
