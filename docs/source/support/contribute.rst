@@ -3,8 +3,8 @@ Contribute
 
 We are always looking for community input into our software. Feel free to contribute to the PDS repos:
 
-* Contribute to this documentation: https://github.com/NASA-PDS/NASA-PDS.github.io
-* Contribute to a specific software project: https://github.com/NASA-PDS
+• Contribute to this documentation: https://github.com/NASA-PDS/NASA-PDS.github.io
+• Contribute to a specific software project: https://github.com/NASA-PDS
 
 ----
 
