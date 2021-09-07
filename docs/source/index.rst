@@ -1,9 +1,8 @@
 Overview
 ========
 
-Welcome to you PDS template site! Have Fun!
-
---------------
+This is the Planetary Data System's Archive Analytics system, a utility for
+analyzing Kibana-based metrics.
 
 
 Sitemap

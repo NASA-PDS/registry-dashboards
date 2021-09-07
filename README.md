@@ -2,7 +2,9 @@
 
 Kibana-based reporting tool for analytics of the archive
 
+
 ## Documentation
+
 1. Procedure for exporting config
    * Go to Kibana
    * Click on Stack Management
@@ -20,6 +22,7 @@ Kibana-based reporting tool for analytics of the archive
     * Browse for the exported NDJSON file
     * There is a toggle button and statement at the bottom on the page that says "Automatically overwrite all saved objects?" (This is your choice)
     * Then, click on Import Button
+
 
 ## Contribute
 
@@ -40,5 +43,5 @@ Or you can reach us at https://pds.nasa.gov/?feedback=true
 The project is licensed under the Apache License, version 2. See the
 LICENSE.txt file for details.
 
-.. Copyright © 2019–2020 California Institute of Technology ("Caltech").
-   ALL RIGHTS RESERVED. U.S. Government sponsorship acknowledged.
+Copyright © 2019–2021 California Institute of Technology ("Caltech").
+ALL RIGHTS RESERVED. U.S. Government sponsorship acknowledged.

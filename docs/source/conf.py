@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My PDS Project'
+project = 'PDS Archive Analytics'
 copyright = '2021 California Institute of Technology'
 author = 'NASA Planetary Data System'
 release = '0.0'
@@ -67,5 +67,5 @@ html_logo = '_static/images/PDS_Planets.png'
 html_context = {
     'css_files': [
         '_static/theme_overrides.css',  # override wide tables in RTD theme
-        ],
-      }
+    ],
+}
