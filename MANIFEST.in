@@ -1,7 +1,6 @@
 graft src
 graft data
-include versioneer.py
-include src/pds/archive_analytics/_version.py
+global-include *.txt
 global-exclude *.py[cod]
 
 # Include package-level files and directories here; e.g.:
