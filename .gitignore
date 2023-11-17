@@ -71,3 +71,4 @@ bin/
 !.gitattributes
 !.gitignore
 !.gitkeep
+.venv
