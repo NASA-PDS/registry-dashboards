@@ -1,22 +1,36 @@
 # Changelog
 
-## [«unknown»](https://github.com/NASA-PDS/archive-analytics/tree/«unknown») (2021-10-25)
+## [1.0.0](https://github.com/NASA-PDS/registry-dashboards/tree/1.0.0) (2025-09-02)
 
-[Full Changelog](https://github.com/NASA-PDS/archive-analytics/compare/2e82d6da6cf4723d4015df44d7616d9529817aa1...«unknown»)
-
-**Requirements:**
-
-- As a Node Manager, I want to report on the number of artifacts within the archive [\#10](https://github.com/NASA-PDS/archive-analytics/issues/10)
-- As a PDS Project Office, I want to know the historical total volume of PDS holdings over time [\#7](https://github.com/NASA-PDS/archive-analytics/issues/7)
-- As a manager, I want to know the current total volume of PDS holdings [\#2](https://github.com/NASA-PDS/archive-analytics/issues/2)
-
-**Improvements:**
-
-- Develop procedure and export of Kibana config  [\#16](https://github.com/NASA-PDS/archive-analytics/issues/16)
+[Full Changelog](https://github.com/NASA-PDS/registry-dashboards/compare/release/1.0.0...1.0.0)
 
 **Other closed issues:**
 
-- Drop Versioneer [\#20](https://github.com/NASA-PDS/archive-analytics/issues/20)
+- Develop the new kibana dashboard to see collections available in the new registry vs in the legacy registry  [\#33](https://github.com/NASA-PDS/registry-dashboards/issues/33)
+
+## [release/1.0.0](https://github.com/NASA-PDS/registry-dashboards/tree/release/1.0.0) (2023-01-24)
+
+[Full Changelog](https://github.com/NASA-PDS/registry-dashboards/compare/2e82d6da6cf4723d4015df44d7616d9529817aa1...release/1.0.0)
+
+**Requirements:**
+
+- As a Node Manager, I want to report on the number of artifacts within the archive [\#10](https://github.com/NASA-PDS/registry-dashboards/issues/10)
+- As a PDS Project Office, I want to know the historical total volume of PDS holdings over time [\#7](https://github.com/NASA-PDS/registry-dashboards/issues/7)
+- As a manager, I want to know the current total volume of PDS holdings [\#2](https://github.com/NASA-PDS/registry-dashboards/issues/2)
+
+**Improvements:**
+
+- Develop procedure and export of Kibana config  [\#16](https://github.com/NASA-PDS/registry-dashboards/issues/16)
+
+**Defects:**
+
+- Invalid or corrupt jar file registry-api-service.jar in registry-api-service docker image [\#26](https://github.com/NASA-PDS/registry-dashboards/issues/26)
+- Installation failures [\#21](https://github.com/NASA-PDS/registry-dashboards/issues/21)
+
+**Other closed issues:**
+
+- Registry API Service docker container fails to start with error: Unable to access jarfile /usr/local/registry-api-service/registry-api-service.jar [\#27](https://github.com/NASA-PDS/registry-dashboards/issues/27)
+- Drop Versioneer [\#20](https://github.com/NASA-PDS/registry-dashboards/issues/20)
 
 
 
