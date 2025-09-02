@@ -1,6 +1,6 @@
-PDS Archive Analytics (update licensing below per specific organization)
+PDS Archive Analytics
 
-Copyright 2021, California Institute of Technology ("Caltech").
+Copyright 2021–2025, California Institute of Technology ("Caltech").
 U.S. Government sponsorship acknowledged.
 
 All rights reserved.
