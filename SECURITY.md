@@ -14,4 +14,4 @@ Use this section to tell people about which versions of your project are current
 
 ## Reporting a Vulnerability
 
-To report a vulnerability in this package, please [submit a new isssue using the Vulnerability Issue template](https://github.com/NASA-PDS-Incubator/validate/issues/new?assignees=jordanpadams&labels=triage-needed%2C+security&template=vulnerability-issue.md&title=%5BSECURITY%5D+Title+Here).
+To report a vulnerability in this package, please [submit a new isssue using the Vulnerability Issue template](https://github.com/NASA-PDS/registry-dashboards/issues/new?template=-vulnerability-issue.yml).

@@ -20,13 +20,15 @@ repos:
     rev: v0.910
     hooks:
     -   id: mypy
-        files: ^src/|tests/
+        files: ^src/
 
--   repo: https://github.com/python/black
-    rev: 21.7b0
-    hooks:
-    -   id: black
-        files: ^src/|tests/
+# "Black" is disabled as it's conflicting with reorder_python_imports
+#
+# -   repo: https://github.com/python/black
+#     rev: 21.7b0
+#     hooks:
+#     -   id: black
+#         files: ^src/|tests/
 
 -   repo: local
     hooks:
@@ -53,9 +55,11 @@ repos:
         args:
           - '--baseline'
           - '.secrets.baseline'
+          - '--disable-plugin'
+          - 'AbsolutePathDetectorExperimental'
           - --exclude-files '\.secrets..*'
-          - --exclude-files '\.git.*'
           - --exclude-files '\.pre-commit-config\.yaml'
+          - --exclude-files '\.git.*'
           - --exclude-files '\.mypy_cache'
           - --exclude-files '\.pytest_cache'
           - --exclude-files '\.tox'
