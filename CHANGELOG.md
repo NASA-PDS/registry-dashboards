@@ -1,16 +1,8 @@
 # Changelog
 
-## [1.0.0](https://github.com/NASA-PDS/registry-dashboards/tree/1.0.0) (2025-09-02)
+## [«unknown»](https://github.com/NASA-PDS/registry-dashboards/tree/«unknown») (2025-10-07)
 
-[Full Changelog](https://github.com/NASA-PDS/registry-dashboards/compare/release/1.0.0...1.0.0)
-
-**Other closed issues:**
-
-- Develop the new kibana dashboard to see collections available in the new registry vs in the legacy registry  [\#33](https://github.com/NASA-PDS/registry-dashboards/issues/33)
-
-## [release/1.0.0](https://github.com/NASA-PDS/registry-dashboards/tree/release/1.0.0) (2023-01-24)
-
-[Full Changelog](https://github.com/NASA-PDS/registry-dashboards/compare/2e82d6da6cf4723d4015df44d7616d9529817aa1...release/1.0.0)
+[Full Changelog](https://github.com/NASA-PDS/registry-dashboards/compare/2e82d6da6cf4723d4015df44d7616d9529817aa1...«unknown»)
 
 **Requirements:**
 
@@ -29,6 +21,7 @@
 
 **Other closed issues:**
 
+- Develop the new kibana dashboard to see collections available in the new registry vs in the legacy registry  [\#33](https://github.com/NASA-PDS/registry-dashboards/issues/33)
 - Registry API Service docker container fails to start with error: Unable to access jarfile /usr/local/registry-api-service/registry-api-service.jar [\#27](https://github.com/NASA-PDS/registry-dashboards/issues/27)
 - Drop Versioneer [\#20](https://github.com/NASA-PDS/registry-dashboards/issues/20)
 
